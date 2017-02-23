@@ -1,0 +1,1 @@
+jdbc:mysql://localhost:3306/, constellation, com.mysql.jdbc.Driver, root, 1234
